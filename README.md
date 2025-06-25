@@ -19,7 +19,7 @@ In this task, you have to analyse product reviews after some text preprocessing 
 
 The dataset that you are going to use is inspired by this Kaggle competition. We have made a subset of the original dataset, which has been provided below.
 
-# The steps to be performed for the first task are given below.
+# Steps to be performed :
 
 1-Exploratory data analysis
 2-Data cleaning
