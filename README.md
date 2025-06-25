@@ -9,10 +9,10 @@ With the advancement in technology, it is imperative for Ebuss to grow quickly i
 As a senior ML Engineer, you are asked to build a model that will improve the recommendations given to the users given their past reviews and ratings. 
 
 In order to do this, you planned to build a sentiment-based product recommendation system, which includes the following tasks.
-1-Data sourcing and sentiment analysis
-2-Building a recommendation system
-3-Improving the recommendations using the sentiment analysis model
-4-Deploying the end-to-end project with a user interface
+1. Data sourcing and sentiment analysis
+2. Building a recommendation system
+3. Improving the recommendations using the sentiment analysis model
+4. Deploying the end-to-end project with a user interface
  
 ## Data sourcing and sentiment analysis
 In this task, you have to analyse product reviews after some text preprocessing steps and build an ML model to get the sentiments corresponding to the users' reviews and ratings for multiple products. 
@@ -21,10 +21,10 @@ The dataset that you are going to use is inspired by this Kaggle competition. We
 
 # Steps to be performed :
 
-1-Exploratory data analysis
-2-Data cleaning
-3-Text preprocessing
-4-Feature extraction: In order to extract features from the text data, you may choose from any of the methods, including bag-of-words, TF-IDF vectorization or word embedding.
+1. Exploratory data analysis
+2. Data cleaning
+3. Text preprocessing
+4. Feature extraction: In order to extract features from the text data, you may choose from any of the methods, including bag-of-words, TF-IDF vectorization or word embedding.
 
 Training a text classification model: You need to build at least three ML models. You then need to analyse the performance of each of these models and choose the best model. At least three out of the following four models need to be built (Do not forget, if required, handle the class imbalance and perform hyperparameter tuning.). 
 1. Logistic regression
@@ -54,6 +54,6 @@ Once you get the ML model and the best-suited recommendation system, you will de
 
 
 Next, you need to include the following features in the user interface.
-1-Take any of the existing usernames as input.
-2-Create a submit button to submit the username.
-3-Once you press the submit button, it should recommend 5 products based on the entered username.
+1. Take any of the existing usernames as input.
+2. Create a submit button to submit the username.
+3. Once you press the submit button, it should recommend 5 products based on the entered username.
